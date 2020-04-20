@@ -1,1 +1,2 @@
-
+- lenet｜[pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- alexnet｜[pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
