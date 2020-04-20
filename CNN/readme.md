@@ -5,5 +5,6 @@
 ![image](https://user-images.githubusercontent.com/52376448/79717793-9674a480-8315-11ea-8aaf-d7c88cd04352.png)
 
 - zfnet｜[pdf](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
-![image](https://user-images.githubusercontent.com/52376448/79717959-ed7a7980-8315-11ea-8d64-c650cf664ab8.png)
+![image](https://user-images.githubusercontent.com/52376448/79718196-71346600-8316-11ea-97b7-bbc9292b62e8.png)
+
 
