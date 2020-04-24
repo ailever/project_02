@@ -1,5 +1,5 @@
 """
-Explain, here. And specify data-type for values in all files!
+Explain, here. And indicate data-type for values in all files!
 
 # hint
 print(type(x))
