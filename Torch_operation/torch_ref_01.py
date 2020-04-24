@@ -1,5 +1,8 @@
 """
-Explain, here.
+Explain, here. And specify data-type for values in all files!
+
+# hint
+print(type(x))
 """
 
 import torch
