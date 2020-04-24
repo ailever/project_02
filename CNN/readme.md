@@ -7,5 +7,7 @@
 - zfnet｜[pdf](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 ![image](https://user-images.githubusercontent.com/52376448/79718196-71346600-8316-11ea-97b7-bbc9292b62e8.png)
 
+- vggnet | [pdf](https://arxiv.org/pdf/1409.1556.pdf)
+
 - inception v3｜[pdf](https://arxiv.org/pdf/1512.00567.pdf)
 
