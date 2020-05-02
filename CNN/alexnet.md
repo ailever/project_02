@@ -12,6 +12,7 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 ### ReLU Nonlinearity
 - 활성화 함수로Tanh함수 대신 ReLU(rectified linear units) 함수를 사용
 - Tanh을 사용하는 것보다 학습속도가 6배 가량 빠름
+![ReLUNonlinearity](https://user-images.githubusercontent.com/63084838/80869986-7e6e2f00-8cde-11ea-86ca-768a379f5cc3.JPG)
 
 ### Training on Multiple GPUs
 - 두 대의 GPU를 병렬 처리
