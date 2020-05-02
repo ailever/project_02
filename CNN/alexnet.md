@@ -10,7 +10,7 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 ![OverallArchitecture](https://user-images.githubusercontent.com/63084838/80869888-dce6dd80-8cdd-11ea-8c37-528984a183d3.JPG) 
 
 ### ReLU Nonlinearity
-![ReLUNonlinearity](https://user-images.githubusercontent.com/63084838/80870069-14a25500-8cdf-11ea-9833-fc33f950692a.JPG){:.aligncenter}
+![ReLUNonlinearity](https://user-images.githubusercontent.com/63084838/80870069-14a25500-8cdf-11ea-9833-fc33f950692a.JPG)
 
 - 활성화 함수로Tanh함수 대신 ReLU(rectified linear units) 함수를 사용
 - Tanh을 사용하는 것보다 학습속도가 6배 가량 빠름
