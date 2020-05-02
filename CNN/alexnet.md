@@ -16,7 +16,15 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 ### Local Response Normalization
 
 ### Overlapping Pooling
+- conv을 통해 얻은 feature map의 크기를 줄이기 위해 사용
+- overlapping은 풀링 커널이 중첩되면서 지나감
+- non-overlapping보다 top-1, top-5 에러율을 감소시키는 데 효과적임
 
 ### Data Augmentation
+-
+-
 
 ### Dropout
+- overfitting을 줄이기 위해 Dropout 사용
+- 각각 히든 뉴런 값을 50%확률로 0으로 셋팅
+- 일부(첫번째,두번째)의 fully-connected layer의에 적용하여 학습 진행
