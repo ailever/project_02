@@ -1,7 +1,7 @@
 Summary Alexnet, here.
 
 ## ImageNet Classiﬁcation with Deep Convolutional Neural Networks
-arXiv: https://arxiv.org/abs/1409.0575
+paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
 ---
 
