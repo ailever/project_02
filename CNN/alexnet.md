@@ -5,16 +5,18 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 
 ---
 
-#### - Overall Architecture
+### Overall Architecture
 
-#### ReLU Nonlinearity
+### ReLU Nonlinearity
+- 활성화 함수로Tanh함수 대신 ReLU(rectified linear units) 함수를 사용
+- Tanh을 사용하는 것보다 6배 빠름
 
-#### Training on Multiple GPUs
+### Training on Multiple GPUs
 
-#### Local Response Normalization
+### Local Response Normalization
 
-#### Overlapping Pooling
+### Overlapping Pooling
 
-#### Data Augmentation
+### Data Augmentation
 
-#### Dropout
+### Dropout
