@@ -3,7 +3,7 @@ Summary Alexnet, here.
 # ImageNet Classiﬁcation with Deep Convolutional Neural Networks
 paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
-===
+---
 
 ### Overall Architecture
 ![OverallArchitecture](https://user-images.githubusercontent.com/63084838/80869888-dce6dd80-8cdd-11ea-8c37-528984a183d3.JPG)
