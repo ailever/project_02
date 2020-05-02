@@ -7,7 +7,8 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 
 ### Overall Architecture
 ![OverallArchitecture](https://user-images.githubusercontent.com/63084838/80869888-dce6dd80-8cdd-11ea-8c37-528984a183d3.JPG)
-5개의 convolution layer, 3개의 fully-connected layer로 이루어져있음
+ 
+-5개의 convolution layer, 3개의 fully-connected layer로 이루어져있음
 
 ### ReLU Nonlinearity
 - 활성화 함수로Tanh함수 대신 ReLU(rectified linear units) 함수를 사용
