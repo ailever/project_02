@@ -5,8 +5,16 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 
 ---
 
-### Overall Architecture
+#### Overall Architecture
 
+#### ReLU Nonlinearity
 
-### Title3-2
+#### Training on Multiple GPUs
 
+#### Local Response Normalization
+
+#### Overlapping Pooling
+
+#### Data Augmentation
+
+#### Dropout
