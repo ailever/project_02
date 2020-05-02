@@ -7,6 +7,7 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 
 ### Overall Architecture
 ![OverallArchitecture](https://user-images.githubusercontent.com/63084838/80869888-dce6dd80-8cdd-11ea-8c37-528984a183d3.JPG)
+
 8개의 레이어로 구성
 5개의 convolution layer, 3개의 fully-connected layer로 이루어져있음
 
