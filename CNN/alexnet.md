@@ -9,14 +9,15 @@ paper : https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-conv
 
 ### ReLU Nonlinearity
 - 활성화 함수로Tanh함수 대신 ReLU(rectified linear units) 함수를 사용
-- Tanh을 사용하는 것보다 6배 빠름
+- Tanh을 사용하는 것보다 학습속도가 6배 가량 빠름
 
 ### Training on Multiple GPUs
--
--
+- 두 대의 GPU를 병렬 처리
+- 메모리 문제를 해결하기 위함
 
 ### Local Response Normalization
--
+- 같은 위치의 pixel에 대해 다수의 feature map간의 Normalization
+- 세포에서 발생하는 ‘측명억제(lateral inhibition)’ 현상과 같은 효과
 
 ### Overlapping Pooling
 - conv을 통해 얻은 feature map의 크기를 줄이기 위해 사용
