@@ -1,9 +1,9 @@
 Summary Alexnet, here.
 
 ## ImageNet Classiﬁcation with Deep Convolutional Neural Networks
+arXiv: https://arxiv.org/abs/1409.0575
 
-
-### Title3-1
+### Overall Architecture
 
 ---
 
