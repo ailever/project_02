@@ -69,7 +69,7 @@ Convolutional Network를 학습할 때, 가중치는 filters의 크기에 해당
 # Prevent  Overfitting
 
 
- - 모델을 학습 할 때 모든 입력 이미지의 크기가 224x224로 고정.
+ - 모델을 학습 할 때 모든 입력 이미지의 크기가 224x224로 고정.  
  -> 제한된 데이터 수를 증가 시킬 수 있음. — Data augmentation  
 
 - 객체의 다양한 측면이 반영 될 수 있습니다.  
