@@ -1,4 +1,4 @@
-﻿#  Very deep convolutional networks for large-scale image recognition
+#  Very deep convolutional networks for large-scale image recognition
 
 paper : https://arxiv.org/pdf/1409.1556.pdf
 
@@ -42,18 +42,18 @@ E : VGG19
 오직 3x3 filter 만을 사용하여 성능 개선을 보임
 
 ![3x3 filter](https://github.com/ailever/project_02/blob/master/Image/4.png)
-- 비선형성 증가
+ - 비선형성 증가
 Convolution 연산은 ReLU  함수를 포함
 1-layer 7x7 필터링의 경우 한 번의 비선형 함수가 적용되고,
 3-layer 3x3 필터링은 세 번의 비선형 함수가 적용됨
 → 레이어가 증가함에 따라 비선형성이 증가하게 됨
 
-- 학습 파라미터 수의 감소
+ - 학습 파라미터 수의 감소
 Convolutional Network를 학습할 때, 가중치는 filters의 크기에 해당
-1-layer 7x7에 대한 학습 파라미터 수는 49
-3-layer 3x3에 대한 학습 파라미터 수는 27(3x3x3)
+--1-layer 7x7에 대한 학습 파라미터 수는 49
+--3-layer 3x3에 대한 학습 파라미터 수는 27(3x3x3)
 → 파라미터 수가 크게 감소
-가중치가 적다 = 훈련시켜야 할 것의 갯수가 작아진다 = 학습의 속도가 빨라짐
+--가중치가 적다 = 훈련시켜야 할 것의 갯수가 작아진다 = 학습의 속도가 빨라짐
 
 ## Result
 ![Result](https://github.com/ailever/project_02/blob/master/Image/5.png)
