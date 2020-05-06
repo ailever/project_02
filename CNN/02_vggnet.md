@@ -61,10 +61,10 @@ Convolutional Network를 학습할 때, 가중치는 filters의 크기에 해당
 - 깊이가 깊어질 수록 error율 감소
 
 - D (VGG16)  vs  E (VGG19)
--error율이 같거나 나쁜 성능을 보임
--Vanishing-gradient의 현상으로  해석 가능
--Activation-function으로 ReLU를 사용 하였지만  gradient vanishing  현상 발생
- → E (VGG19)  이후로 더이상 layer을  늘리는 것을 멈춤
+ - error율이 같거나 나쁜 성능을 보임
+ -Vanishing-gradient의 현상으로  해석 가능
+ -Activation-function으로 ReLU를 사용 하였지만  gradient vanishing  현상 발생
+  → E (VGG19)  이후로 더이상 layer을  늘리는 것을 멈춤
 
 # Prevent  Overfitting
 
