@@ -11,5 +11,6 @@
 ![image](https://user-images.githubusercontent.com/52376448/81092774-187ee300-8f3c-11ea-8bcb-edc26d3daae7.png)
 
 - inception v3｜[pdf](https://arxiv.org/pdf/1512.00567.pdf)
+
 ![image](https://user-images.githubusercontent.com/52376448/81142847-a47c2380-8fab-11ea-86e0-1dfb5d94f163.png)
 
