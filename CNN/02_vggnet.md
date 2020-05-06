@@ -1,3 +1,4 @@
+
 #  Very deep convolutional networks for large-scale image recognition
 
 paper : https://arxiv.org/pdf/1409.1556.pdf
@@ -84,3 +85,13 @@ Convolutional Network를 학습할 때, 가중치는 filters의 크기에 해당
 - 실험에서 네트워크 깊이가 최대 19 개의 계층으로 사용 된 이유는 VGG-19에서 오류율이 수렴 되었기 때문임.
 
 - 많은 훈련 데이터가있는 경우 더 deep한 모델이 더 유용 할 수 있음.
+
+## Compare Alexnet
+- 네트워크의 깊이 변화에 따른 top-5 error의 변화
+
+![Result](https://github.com/ailever/project_02/blob/master/Image/6.png)
+
+-  Alexnet과 비교
+1. 작은 필터(3x3  필터)만을 사용하였다.
+2. 기존보다 훨씬 깊은 레이어를 사용하였다.
+3. 작은 필터를 사용하였기 때문에 파라미터의 갯수가 감소하였다.
