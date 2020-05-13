@@ -1,1 +1,1 @@
-
+- vanilla RNN｜[pdf](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
