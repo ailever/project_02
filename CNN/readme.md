@@ -14,5 +14,6 @@
 ![image](https://user-images.githubusercontent.com/52376448/81143048-0f2d5f00-8fac-11ea-85b5-3b08fefc6ad7.png)
 
 - resnet｜[pdf](https://arxiv.org/pdf/1512.03385.pdf)
+
 ![image](https://user-images.githubusercontent.com/52376448/81808410-a1a8a200-955a-11ea-8b03-bffe1248bf17.png)
 
