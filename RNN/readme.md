@@ -9,6 +9,7 @@
 
 
 - GRU｜[pdf](https://arxiv.org/pdf/1406.1078.pdf) 
+
 ![image](https://user-images.githubusercontent.com/52376448/81822740-729c2b80-956e-11ea-8d20-afcef9b05360.png)
 
 
