@@ -1,1 +1,2 @@
 - vanilla RNN｜[pdf](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+- LSTM｜[pdf](https://www.bioinf.jku.at/publications/older/2604.pdf)
