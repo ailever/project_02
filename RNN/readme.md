@@ -1,3 +1,4 @@
+- [RNN summary](http://dprogrammer.org/rnn-lstm-gru)
 ![image](https://user-images.githubusercontent.com/52376448/81821060-6616d380-956c-11ea-9d6e-83869316155f.png)
 
 - vanilla RNN｜[pdf](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
