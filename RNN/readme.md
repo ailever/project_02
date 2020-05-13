@@ -9,7 +9,7 @@
 
 
 - GRU｜[pdf](https://arxiv.org/pdf/1406.1078.pdf) 
-![image](https://user-images.githubusercontent.com/52376448/81821858-5b107300-956d-11ea-94a3-f6ee6d21d2d3.png)
+![image](https://user-images.githubusercontent.com/52376448/81822740-729c2b80-956e-11ea-8d20-afcef9b05360.png)
 
 
 - BRNN｜[pdf](https://www.researchgate.net/publication/3316656_Bidirectional_recurrent_neural_networks)
